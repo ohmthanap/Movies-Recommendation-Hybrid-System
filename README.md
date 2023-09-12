@@ -16,15 +16,15 @@
 
    - **Data sparsity** 
 
-   Data sparsity occurs when there is a limited amount of data available for some movies, which can make it challenging to provide accurate recommendations.
+      Data sparsity occurs when there is a limited amount of data available for some movies, which can make it challenging to provide accurate recommendations.
 
    - **Cold start problem** 
 
-   The cold start problem arises when there is a lack of data available for new users, which can make it difficult to pro-vide personalized recommendations.
+      The cold start problem arises when there is a lack of data available for new users, which can make it difficult to pro-vide personalized recommendations.
 
    - **Lack of diversity**
 
-   The lack of diversity issue can arise when the system tends to recommend similar movies, which can limit the user's exposure to new and different content.
+      The lack of diversity issue can arise when the system tends to recommend similar movies, which can limit the user's exposure to new and different content.
 
 ## 3. Artificial Intelligence Techniques
 
