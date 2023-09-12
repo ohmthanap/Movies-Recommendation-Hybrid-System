@@ -4,7 +4,7 @@
 
    Movie recommendation systems have become increasingly popular in recent years, with the rise of online streaming platforms such as Netflix and Amazon Prime. These sys-tems aim to suggest movies to users that they are likely to enjoy based on their past preferences.
 
-   However, the traditional movie recommendation systems that use either collaborative filtering (CF) or content-based filtering (CBF) techniques have several limitations that can negatively affect the quality and diversity of recommenda-tions. CF relies on user behavior data to recommend movies, which can lead to the problem of the cold start, where new users or movies have no historical data to rely on. Additionally, this technique often leads to the problem of the popularity bias, where popular movies receive more recommendations regardless of their quality. CBF, on the other hand, recommends movies based on their features, which can lead to limited diversity in recommendations and a lack of exposure to new and different types of movies.
+   However, the traditional movie recommendation systems that use either collaborative filtering (CF) or content-based filtering (CBF) techniques have several limitations that can negatively affect the quality and diversity of recommendations. CF relies on user behavior data to recommend movies, which can lead to the problem of the cold start, where new users or movies have no historical data to rely on. Additionally, this technique often leads to the problem of the popularity bias, where popular movies receive more recommendations regardless of their quality. CBF, on the other hand, recommends movies based on their features, which can lead to limited diversity in recommendations and a lack of exposure to new and different types of movies.
 
    To address these limitations, this research proposes the development of a hybrid movie recommendation system that combines CF and CBF techniques that can address the limitations of traditional recommendation systems, evaluate the performance of the proposed hybrid system, and compare it to traditional CF and CBF techniques. The MovieLens 1M dataset from GroupLens Research will be used to train and evaluate the system. This dataset contains ratings from over 6,040 users on approximately 3,900 movies, making it a rich source of data for building a movie recommendation system.
 
@@ -14,9 +14,17 @@
 
    The problem statement for building a movie recommenda-tion system is that the system may encounter challenges such as data sparsity, cold start problem, and lack of diver-sity. These issues can make it difficult to accurately capture user preferences and provide recommendations that are rele-vant and diverse.
 
-   - **Data sparsity**: Data sparsity occurs when there is a limited amount of data available for some movies, which can make it challenging to provide accurate recommendations.
-   - **Cold start problem**: The cold start problem arises when there is a lack of data available for new users, which can make it difficult to pro-vide personalized recommendations.
-   - **Lack of diversity**: The lack of diversity issue can arise when the system tends to recommend similar movies, which can limit the user's exposure to new and different content.
+   - **Data sparsity** 
+
+        Data sparsity occurs when there is a limited amount of data available for some movies, which can make it challenging to provide accurate recommendations.
+
+   - **Cold start problem** 
+
+        The cold start problem arises when there is a lack of data available for new users, which can make it difficult to pro-vide personalized recommendations.
+
+   - **Lack of diversity**
+
+        The lack of diversity issue can arise when the system tends to recommend similar movies, which can limit the user's exposure to new and different content.
 
 ## 3. Artificial Intelligence Techniques
 
