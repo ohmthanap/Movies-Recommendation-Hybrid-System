@@ -9,6 +9,8 @@
    To address these limitations, this research proposes the development of a hybrid movie recommendation system that combines CF and CBF techniques that can address the limitations of traditional recommendation systems, evaluate the performance of the proposed hybrid system, and compare it to traditional CF and CBF techniques. The MovieLens 1M dataset from GroupLens Research will be used to train and evaluate the system. This dataset contains ratings from over 6,040 users on approximately 3,900 movies, making it a rich source of data for building a movie recommendation system.
 
    The proposed system will utilize the strengths of both CF and CBF techniques to provide more accurate and diverse recommendations. CF will be used to identify similar users and movies based on past behavior, while CBF will be used to analyze movie attributes such as genre, director, and cast to make recommendations. By combining these two techniques, we hope to overcome some of the limitations of each method and provide a more comprehensive and personalized recommendation system.
+
+   Dateset source (Citation): F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4, Article 19 (December 2015), 19 pages. DOI=http://dx.doi.org/10.1145/2827872
    
 ## 2. Problem Statement
 
